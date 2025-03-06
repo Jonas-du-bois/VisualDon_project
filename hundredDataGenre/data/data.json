@@ -1,0 +1,83 @@
+{
+    "super_genres": [
+      {
+        "name": "Blue Note",
+        "description": "Comprend les genres Blues, Jazz et Gospel/Pioneers, caractérisés par l'utilisation de 'notes bleues', des configurations instrumentales spécifiques et une forte influence mutuelle.",
+        "genres": [
+          {
+            "name": "Blues",
+            "description": "Genre musical né des chants de travail afro-américains, caractérisé par des progressions d'accords spécifiques et des thèmes lyriques émotionnels.",
+            "subgenres": ["Blues traditionnel", "Kansas City blues", "delta blues", "Chicago blues", "Texas blues", "New York blues", "british blues boom", "blues rock", "blues français", "memphis blues", "talking blues", "West coast blues"]
+          },
+          {
+            "name": "Jazz",
+            "description": "Genre musical originaire des communautés afro-américaines du début du XXᵉ siècle, caractérisé par l'improvisation, les rythmes syncopés et les harmonies complexes.",
+            "subgenres": ["Acid jazz", "afrobeat", "avant-garde jazz", "bebop", "Chicago Jazz", "cool jazz", "dixieland", "éthio-jazz", "ethno-jazz", "free jazz", "hard bop", "jazz afro-cubain", "jazz fusion", "jazz manouche", "jazz modal", "jazz Nouvelle-Orléans", "jazz punk", "jazz rap", "jazz vocal", "jazz West Coast", "latin jazz", "mainstream", "néo-bop", "nu jazz", "piano stride", "post-bop", "ska-jazz", "smooth jazz", "soul jazz, swing", "third stream"]
+          },
+          {
+            "name": "Gospel",
+            "description": "Musique religieuse chrétienne afro-américaine, mettant l'accent sur des harmonies vocales puissantes et des messages spirituels.",
+            "subgenres": ["Traditional Gospel", "Contemporary Gospel", "Urban Gospel", "Southern Gospel", "Quartet Gospel", "Progressive Gospel"]
+          }
+        ]
+      },
+      {
+        "name": "Rock",
+        "description": "Genre musical basé sur l'utilisation de guitares électriques, de basses et de batteries, avec des origines remontant au rock 'n' roll des années 1950.",
+        "genres": [
+          {
+            "name": "Rock 'n' Roll",
+            "description": "Style musical des années 1950 combinant des éléments de rhythm and blues et de country, caractérisé par des rythmes entraînants et des solos de guitare.",
+            "subgenres": ["Rockabilly", "Teen Idol", "Doo-Wop", "Skiffle (Revival)", "Surf Rock", "Garage Rock", "American & British Folk Revival"]
+          },
+          {
+            "name": "Hard Rock",
+            "description": "Genre des années 1960 et 1970 avec des guitares électriques amplifiées et des rythmes lourds.",
+            "subgenres": ["Classic Hard Rock", "Glam Rock", "Heavy Metal", "Stoner Rock", "Doom Metal", "Power Metal", "Thrash Metal", "Death Metal", "Black Metal", "Symphonic Metal", "Progressive Metal"]
+          },
+          {
+            "name": "Punk",
+            "description": "Mouvement musical des années 1970 avec des chansons courtes, des tempos rapides et des paroles souvent politiques.",
+            "subgenres": ["Hardcore Punk", "Post-Punk", "Pop Punk", "Anarcho-Punk", "Crust Punk", "D-Beat", "Grindcore", "Emo", "Screamo", "Post-Hardcore", "Emocore"]
+          },
+          {
+            "name": "Alternative",
+            "description": "Genre des années 1980 et 1990, souvent indépendant des circuits commerciaux, avec une grande variété de styles.",
+            "subgenres": ["Grunge", "Indie Rock", "Shoegaze", "Britpop", "Lo-fi", "Noise Rock", "Post-Rock", "Math Rock", "Emo", "Gothic Rock", "Industrial Rock", "Stoner Rock", "Alternative Metal"]
+          }
+        ]
+      },
+      {
+        "name": "Dance / EDM",
+        "description": "Genres centrés sur la musique électronique destinée à la danse, avec des rythmes entraînants et des synthétiseurs.",
+        "genres": [
+          {
+            "name": "House",
+            "description": "Genre de musique électronique des années 1980 avec des rythmes 4/4 et des lignes de basse profondes.",
+            "subgenres": ["Deep House", "Progressive House", "Tech House", "Electro House", "Future House", "Tropical House", "Big Room House", "Funky House", "Soulful House", "Chicago House", "Acid House"]
+          },
+          {
+            "name": "Techno",
+            "description": "Genre de musique électronique des années 1980 avec des rythmes répétitifs et des sons synthétiques.",
+            "subgenres": ["Detroit Techno", "Minimal Techno", "Techno Hardcore", "Dub Techno", "Acid Techno", "Hard Techno", "Progressive Techno", "Schranz", "Industrial Techno", "Tribal Techno"]
+          },
+          {
+            "name": "Trance",
+            "description": "Genre de musique électronique des années 1990 avec des mélodies hypnotiques et des rythmes rapides.",
+            "subgenres": ["Progressive Trance", "Uplifting Trance", "Psytrance", "Goa Trance", "Hard Trance", "Eurotrance", "Vocal Trance", "Tech Trance", "Ambient Trance", "Dark Trance"]
+          },
+          {
+            "name": "Drum and Bass",
+            "description": "Genre de musique électronique avec des rythmes rapides et des lignes de basse lourdes.",
+            "subgenres": ["Jungle", "Liquid Funk", "Neurofunk", "Jump Up", "Techstep", "Drumstep", "Darkstep", "Intelligent Drum and Bass", "Hardstep", "Brostep"]
+          },
+          {
+            "name": "Dubstep",
+            "description": "Genre de musique électronique des années 2000 avec des rythmes lents et des basses wobble.",
+            "subgenres": ["Brostep", "Post-Dubstep", "Trap", "Future Garage", "Dub", "Wobble", "Chillstep", "Riddim", "Deathstep", "Melodic Dubstep"]
+          }
+        ]
+      }
+    ]
+  }
+  
